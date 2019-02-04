@@ -1,0 +1,10 @@
+# remove all DS_Stores
+.DS_Store
+./**/.DS_Store
+
+# ignore word2vec embedding file
+GoogleNews-vectors-negative300.bin
+
+# ignore datasets
+recipe_dataset/
+mini_newsgroups/
